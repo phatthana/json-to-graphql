@@ -5,6 +5,7 @@ exports[`main create create a schema from simple JSON 1`] = `
     GraphQLInt,
     GraphQLFloat,
     GraphQLObjectType,
+    GraphQLList,
     GraphQLSchema,
     GraphQLID,
     GraphQLNonNull

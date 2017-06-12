@@ -6,6 +6,7 @@ const {
   GraphQLInt,
   GraphQLFloat,
   GraphQLObjectType,
+  GraphQLList,
   GraphQLSchema,
   GraphQLID,
   GraphQLNonNull
